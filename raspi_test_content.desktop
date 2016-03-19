@@ -1,0 +1,14 @@
+#
+# $ mkdir -p  /home/pi/.config/autostart/
+# $ vi /home/pi/.config/autostart/raspi_test_content.desktop
+#
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=RASPI_TEST_CONTENT
+Comment=
+Exec=/home/pi/bin/raspi_test_content
+StartupNotify=false
+Terminal=false
+Hidden=false
